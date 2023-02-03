@@ -1,4 +1,4 @@
-# Gigabyte Z790 / i7 13700KF / AMD Radeon RX 6950XT Hackintosh / MacOS Ventura 13.0.1
+# Gigabyte Z790 Aorus Elite AX / i7 13700KF / AMD Radeon RX 6950XT Hackintosh / MacOS Ventura 13.0.1
 Clover EFI Configuration for Z790 / i7 13700KF / RX 6950XT Hackintosh
 
 * Motherboard: Gigabyte Z7890 Aorus Elite AX
