@@ -1,5 +1,5 @@
 # Gigabyte Z790 Aorus Elite AX / i7 13700KF / AMD Radeon RX 6950XT Hackintosh / MacOS Ventura / Sonoma
-Clover EFI Configuration for Z790 / i7 13700KF / RX 6950XT Hackintosh
+OpenCore EFI Configuration for Z790 / i7 13700KF / RX 6950XT Hackintosh
 
 * Motherboard: Gigabyte Z7890 Aorus Elite AX
 * CPU: Intel Core i7 13700KF
