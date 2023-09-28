@@ -1,4 +1,4 @@
-# Gigabyte Z790 Aorus Elite AX / i7 13700KF / AMD Radeon RX 6950XT Hackintosh / MacOS Ventura 13.0.1
+# Gigabyte Z790 Aorus Elite AX / i7 13700KF / AMD Radeon RX 6950XT Hackintosh / MacOS Ventura / Sonoma
 Clover EFI Configuration for Z790 / i7 13700KF / RX 6950XT Hackintosh
 
 * Motherboard: Gigabyte Z7890 Aorus Elite AX
@@ -11,11 +11,10 @@ Clover EFI Configuration for Z790 / i7 13700KF / RX 6950XT Hackintosh
 What Works
 ---
 
-* Everything works except Wifi (I never bother with it, but it's my understanding that it should work just fine if you want to get it going)
-* Onboard audio also should work fine but I never used it at all.
+* Everything works including Audio, Wifi and Bluetooth.
 
 
-I use 3 displays and this has been my daily driver (replacing my M1 Mac Mini) for a few months now. Never once crashed on me or had a blip in any way. Rock solid.
+I use 3 displays and this has been my daily driver (replacing my M1 Mac Mini) for a year now. Never once crashed on me or had a blip in any way. Rock solid.
 
 
 
